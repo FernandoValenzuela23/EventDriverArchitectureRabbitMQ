@@ -1,0 +1,14 @@
+.vs/
+Events/bin/
+Events/obj/
+LightControlService/bin/
+LightControlService/obj/
+Publisher/bin/
+Publisher/obj/
+ThermostatControlService/bin/
+ThermostatControlService/obj/
+*.user
+artifacts/
+.vscode/
+.dotnet/
+*.binlog
